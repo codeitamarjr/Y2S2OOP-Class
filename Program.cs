@@ -6,8 +6,10 @@ namespace Y2S2OOP_Class
     {
         static void Main(string[] args)
         {
-            Q1.runQ1();
+            //Q1.runQ1();
             //Q2.runQ2();
+            //While.runWhile();
+            For.runFor();
         }
     }
 }

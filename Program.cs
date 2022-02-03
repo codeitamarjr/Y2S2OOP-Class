@@ -9,7 +9,11 @@ namespace Y2S2OOP_Class
             //Q1.runQ1();
             //Q2.runQ2();
             //While.runWhile();
-            For.runFor();
+            //For.runFor();
+            //DoWhile.runDoWhile();
+            //ConditionalQ1.runConditionalQ1();
+            //LoopQ3.runLoopQ3();
+            RandomQuestionQ3.runRandomQuestion();
         }
     }
 }

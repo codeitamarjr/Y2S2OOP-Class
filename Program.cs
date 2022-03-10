@@ -13,7 +13,9 @@ namespace Y2S2OOP_Class
             //DoWhile.runDoWhile();
             //ConditionalQ1.runConditionalQ1();
             //LoopQ3.runLoopQ3();
-            RandomQuestionQ3.runRandomQuestion();
+            //RandomQuestionQ3.runRandomQuestion();
+            //CreatingMethods.runCreatingMethods();
+
         }
     }
 }
